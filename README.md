@@ -111,6 +111,6 @@ Contributions are welcome! Please follow these steps:
 If you have any questions or feedback, please feel free to reach out:
 
 - **Email:** manishanand18113@gmail.com
-- **GitHub:** [rootinj](https://github.com/Manish18113)
+- **GitHub:** [Manish18113](https://github.com/Manish18113)
 
 Thank you for visiting Clothify!
